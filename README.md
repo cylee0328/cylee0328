@@ -12,7 +12,6 @@
 
 ## Links
 - E-mail - hosuk0328@naver.com
-- Notion - https://www.notion.so/BreakTime-7816ac597cc7400582f1a750d7c45f08
 - GitHub - https://cylee0328.github.io/
 
 
