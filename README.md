@@ -12,6 +12,6 @@
 
 ## Links
 - E-mail - hosuk0328@naver.com
-- GitHub - https://cylee0328.github.io/
+- portfolio - https://cylee0328.github.io/
 
 
